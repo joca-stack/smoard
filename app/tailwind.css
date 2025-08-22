@@ -26,8 +26,8 @@ body { font-family: 'Inter', sans-serif; }
 /* Form focus styles */
 .form-input:focus {
   outline: none;
-  ring: 2px;
-  ring-color: #0d9488;
+  kerning: 2px;
+  lighting-color: #0d9488;
   border-color: #0d9488;
 }
 
